@@ -1,2 +1,7 @@
 # ScratchTerrors
-Scratch Terrors
+Scratch Terrors for people
+just use 
+```js
+import("https://raw.githack.com/PArangSae/ScratchTerrors/main/f5f5")
+```
+in the f12 console.
